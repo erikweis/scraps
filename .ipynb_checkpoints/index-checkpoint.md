@@ -3,7 +3,7 @@
 Description
 
 Years:
-[22S.md](2022)
+[2022](content/22S.md)
 
 ## Subdetail
 
